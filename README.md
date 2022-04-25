@@ -1,1 +1,1 @@
-# Hello, GitLock! I'm Ojam.
+# Hello, GitLock! I'm Ojam. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
