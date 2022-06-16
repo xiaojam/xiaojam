@@ -1,5 +1,5 @@
 # Hello, GitLock! I'm Ojam. 
-<img src="https://raw.githubusercontent.com/jampirojam/PortfolioBlogger/master/assets/images/4b74bbf5197ab483c311f6cb078c3ddb.gif" width="250em">
+<img src="https://raw.githubusercontent.com/jampirojam/PortfolioBlogger/master/assets/images/4b74bbf5197ab483c311f6cb078c3ddb.gif" width="100em">
  
 Hello, just call me Ojam, IT geek with an educational perspective. Sometimes called as writer, and I think that's true, 'cause I love to write both text and code. Oh, one thing, it's a secret and don't tell anyone, ok! You're cool. Btw, thanks for taking your time to look at my GitHub profile.
 
