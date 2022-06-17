@@ -4,6 +4,7 @@
 Hello, just call me <b>Ojam</b>, IT geek with an educational perspective. Sometimes called as writer, and I think that's true, 'cause I love to write both text and code. Oh, one thing, it's a secret and don't tell anyone, ok! You're cool. Btw, thanks for taking your time to look at my GitHub profile.
 
 Don't forget to connect, ok!
+
 [Blog](https://brojamz.blogspot.com) | [Twitter](https://twitter.com/jampirojam) | [LinkedIn](https://linkedin.com/in/jampirojam/) | [Facebook](https://facebook.com/jampirojam) | [Instagram](https://instagram.com/jampirojam)
 
 ### Github Statistics
