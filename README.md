@@ -1,6 +1,8 @@
 # M. Machrush Aliy Sirojjam Mushlich
+<!--
 Hello, call me <b>Ojam</b> here; Back-end Engineer at [PT BFI Finance Indonesia Tbk](https://bfi.co.id). Sometimes called as writer, 'cause I love to write both text and code. Since I work at this company I rarely open this account, cause I use company account, [@ojam-bfi](https://github.com/ojam-bfi). Btw, thanks for taking your time to look at my GitHub profile.
-
+-->
+Hello, call me <b>Ojam</b> here; Just a random guy who likes to write, both text and code. Btw, thanks for taking your time to look at my GitHub profile.
 Let's connect!
 
 [![Email](https://img.shields.io/badge/jampirojam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jampirojam@gmail.com)&nbsp;
