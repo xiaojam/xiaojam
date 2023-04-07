@@ -11,7 +11,7 @@ Let's connect!
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://brojamz.blogspot.com)
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jampirojam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&title_color=000389&text_color=000389&icon_color=000389" alt="Ojam's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampirojam&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide_progress=true&title_color=000389&text_color=000389&icon_color=000389" /></a> |
+|  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jampirojam&show_icons=true&title_color=000389&text_color=000389&icon_color=000389&theme=buefy&include_all_commits=true&count_private=true"/> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampirojam&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide_progress=true&title_color=000389&text_color=000389&icon_color=000389" /></a> |
 | ------------- | ------------- |
 <!--
 ### Github Statistics
