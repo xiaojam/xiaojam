@@ -5,9 +5,9 @@ Hello, call me <b>Ojam</b> here; Back-end Engineer at [PT BFI Finance Indonesia 
 Hello, call me <b>Ojam</b> here; Just a random guy who likes to write, both text and code. Btw, thanks for taking your time to look at my GitHub profile.
 Let's connect!
 
-[![Email](https://img.shields.io/badge/jampirojam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jampirojam@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jampirojam.blogspot.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jampirojam/)&nbsp;
+[![Email](https://img.shields.io/badge/machruzh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machruzh@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ojam.top)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam/)&nbsp;
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://brojamz.blogspot.com)
 
 
