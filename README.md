@@ -23,25 +23,54 @@ Halo, aku Ojam.
 
 
 ### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xiaojjam)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xiaojjam)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machruzh@gmail.com)&nbsp;
+[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://ojam.top)
 
-<table>
-  <tr>
-    <td>LinkedIn</td>
-    <td><a href="https://linkedin.com/in/jampirojam">LinkedIn</a></td>
-  </tr>
-  <tr>
-    <td>Twitter</td>
-    <td><a href="https://x.com/xiaojjam">Twitter</a></td>
-  </tr>
-  <tr>
-    <td>Instagram</td>
-    <td><a href="https://instagram.com/xiaojjam">Instagram</a></td>
-  </tr>
-  <tr>
-    <td>Blog</td>
-    <td><a href="https://instagram.com/xiaojjam">Instagram</a></td>
-  </tr>
-</table>
+## Tech Stack
+
+### Daily Drive
+![Java](https://img.shields.io/badge/lang-Java-blue)
+![HTML](https://img.shields.io/badge/basc-HTML-darkblue)
+![CSS](https://img.shields.io/badge/basc-CSS-darkblue)
+![Spring Boot](https://img.shields.io/badge/refl-Spring_Boot-purple)
+![PostgreSQL](https://img.shields.io/badge/dtbs-PostgreSQL-sienna)
+![Postman](https://img.shields.io/badge/test-Postman-indigo)
+![JUnit](https://img.shields.io/badge/test-JUnit-indigo)
+![Mockito](https://img.shields.io/badge/test-Mockito-indigo)
+![Git](https://img.shields.io/badge/tool-Git-maroon)
+![Camunda](https://img.shields.io/badge/tool-Camunda-maroon)
+![Google Workspace](https://img.shields.io/badge/prod-Google_Workspace-black)
+![Microsoft Office](https://img.shields.io/badge/prod-Microsoft_Office-black)
+![Jira](https://img.shields.io/badge/prod-Jira-black)
+
+### Proficient & Evolving
+![Go](https://img.shields.io/badge/lang-Go-blue)
+![JavaScript](https://img.shields.io/badge/lang-JavaScript-blue)
+![Python](https://img.shields.io/badge/lang-Python-blue)
+![Kotlin](https://img.shields.io/badge/lang-Kotlin-blue)
+![Ruby](https://img.shields.io/badge/lang-Ruby-blue)
+![Gin](https://img.shields.io/badge/refl-Gin-purple)
+![Node.js](https://img.shields.io/badge/refl-Node.js-purple)
+![Hapi](https://img.shields.io/badge/refl-Hapi-purple)
+![Vite](https://img.shields.io/badge/refl-Vite-purple)
+![Ruby on Rails](https://img.shields.io/badge/refl-Ruby_on_Rails-purple)
+![React.js](https://img.shields.io/badge/refl-React.js-purple)
+![MySQL](https://img.shields.io/badge/dtbs-MySQL-sienna)
+![Katalon](https://img.shields.io/badge/test-Katalon-indigo)
+![Testify](https://img.shields.io/badge/test-Testify-indigo)
+![Jest](https://img.shields.io/badge/test-Jest-indigo)
+![Keycloak](https://img.shields.io/badge/tool-Keycloak-maroon)
+![Docker](https://img.shields.io/badge/tool-Docker-maroon)
+![Datadog](https://img.shields.io/badge/tool-Datadog-maroon)
+![Redis](https://img.shields.io/badge/tool-Redis-maroon)
+![RabbitMQ](https://img.shields.io/badge/tool-RabbitMQ-maroon)
+![Figma](https://img.shields.io/badge/prod-Figma-black)
+![Photoshop](https://img.shields.io/badge/prod-Photoshop-black)
+![Sony Vegas](https://img.shields.io/badge/prod-Sony_Vegas-black)
+![Audation](https://img.shields.io/badge/prod-Audation-black)
 
 ```
 ╔════╗ 
@@ -50,9 +79,8 @@ Halo, aku Ojam.
 ╚════╝
 ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
 Min- - - - - - - - - - - -●Max
-```
 
-```
+
 ________________________________BBBBBBBBBBBB
 _______________________________BBBBBBBBBBBBB0
 __BBBBBBBBB___________________BBBBBBBBBBBBBBB,
