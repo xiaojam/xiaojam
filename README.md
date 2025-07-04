@@ -1,23 +1,103 @@
 # M. Machrush Aliy Sirojjam Mushlich
-<!--
-Hello, call me <b>Ojam</b> here; Back-end Engineer at [PT BFI Finance Indonesia Tbk](https://bfi.co.id). Sometimes called as writer, 'cause I love to write both text and code. Since I work at this company I rarely open this account, cause I use company account, [@ojam-bfi](https://github.com/ojam-bfi). Btw, thanks for taking your time to look at my GitHub profile.
--->
-Hello, call me <b>Ojam</b> here; Just a random guy who likes to write, both text and code. Btw, thanks for taking your time to look at my GitHub profile.
-Let's connect!
 
-[![Email](https://img.shields.io/badge/machruzh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machruzh@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ojam.top)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam/)&nbsp;
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://brojamz.blogspot.com)
+```
+ ________        ___  ________  _____ ______      
+|\   __  \      |\  \|\   __  \|\   _ \  _   \    
+\ \  \|\  \     \ \  \ \  \|\  \ \  \\\__\ \  \   
+ \ \  \\\  \  __ \ \  \ \   __  \ \  \\|__| \  \  
+  \ \  \\\  \|\  \\_\  \ \  \ \  \ \  \    \ \  \ 
+   \ \_______\ \________\ \__\ \__\ \__\    \ \__\
+    \|_______|\|________|\|__|\|__|\|__|     \|__|
+                                                  
+```         
+
+### Jikoshoukai (自己紹介)
+A wordsmith by magic, building worlds with language and logic. <br/>
+Hi, I'm Ojam! <br/>
+Click... <br/>
+
+<hr/>
+
+Penikmat susu beruang yang 'kan membuatmu nyaman. <br/>
+Halo, aku Ojam.
 
 
-|  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jampirojam&show_icons=true&title_color=000389&text_color=000389&icon_color=000389&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampirojam&layout=compact&theme=buefy&hide_border=true&langs_count=10&title_color=000389&text_color=000389&icon_color=000389" /></a> |
-| ------------- | ------------- |
-<!--
-### Github Statistics
-<p align="justify">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jampirojam&show_icons=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jampirojam&theme=react&border=61dafb&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" alt="jampirojam"/>
- <img align="left" width="100%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jampirojam&layout=compact&langs_count=8&theme=algolia&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a"/>
-</p>
--->
+### Socials
+
+<table>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://linkedin.com/in/jampirojam">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td>Twitter</td>
+    <td><a href="https://x.com/xiaojjam">Twitter</a></td>
+  </tr>
+  <tr>
+    <td>Instagram</td>
+    <td><a href="https://instagram.com/xiaojjam">Instagram</a></td>
+  </tr>
+  <tr>
+    <td>Blog</td>
+    <td><a href="https://instagram.com/xiaojjam">Instagram</a></td>
+  </tr>
+</table>
+
+```
+╔════╗ 
+║████║ 
+║(♫) ║ ♫ xiaojam - Am I dumb? ♫ 
+╚════╝
+▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+Min- - - - - - - - - - - -●Max
+```
+
+```
+________________________________BBBBBBBBBBBB
+_______________________________BBBBBBBBBBBBB0
+__BBBBBBBBB___________________BBBBBBBBBBBBBBB,
+_BBBBBBBBBBBB________________BBBBBBBBBBBBBBBB0,
+_BBBBBBBBBBBBB_______________BBBBBBBBBBBBBBBB0
+BBBBBBBBBBBBBBBB____________BBBBBBBBBBBBBBBBB,
+_BBBBBBBBBBBBBBBB___________BBBBBBBBBBBBBBBB0,
+__BBBBBBBBBBBBBBBB_________BBBBBBBBBBBBBBBBB,
+__BBBBBBBBBBBBBBBB_________BBBBBBBBBBBBBBBB,
+___BBBBBBBBBBBBBBBB________BBBBBBBBBBBBBBB,
+____BBBBBBBBBBBBBBB________BBBBBBBBBBBBBB0,
+_____BBBBBBBBBBBBBB_______BBBBBBBBBBBBBB0,
+______BBBBBBBBBBBBB_______BBBBBBBBBBBBBB,
+_______BBBBBBBBBBBBB______BBBBBBBBBBBBB,
+________BBBBBBBBBBBB______BBBBBBBBBB00,
+__________BBBBBBBBBB______BBBBBBBBBBB,
+___________BBBBBBBBBB_____BBBBBBBBBB0
+____________BBBBBBBBB_____BBBBBBBBBB
+______________BBBBBBB_____BBBBBBBB0
+______________BBBBBBB_____BBBBBBBB
+_______________BBBBBB_____BBBBBBB
+________________BBBBBBBBBBBBBBBBB_
+______________BBBBBBBBBBBBBBBBBBBBBB
+____________BBBBBBBBBBBBBBBBBBBBBBBBBB_
+__________BBBBBBBBBBBBB_________BBBBBBBB
+_________BBBBB__BBBBB____________BBBBBBBBB
+________BBB________B______________BBBBBBBBB
+_______BBB_________B______________BBBBBBBBBB,
+_______BBB______BB_B_BBB__________BBBBBBBBBB,
+_______BBB_____BBB_B_BBBB________BBBBBBBBBBB,
+_______BBB________000___________BBBBBBBBBBBB,
+_______BBBB______00000_________BBBBBBBBBBBBB,
+____00000BBBBBBBBB000BBBBBBBBBBBBBBBBBBBBBB00000000,
+___0BBBB00BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB00BBBBBB0B0,
+__0BBBBBB00BBBB00______B000000BBBBBBBBBB000B00BBBB0B0,
+_0BBBBBBBB_BBBB00___B__BBBB000BBBBBBBBB00B0___B00000,
+_00BBBBB____BBBB00BBBBBB000BBBBBBBBBBBB0,
+__0BB_________B0B00000000BBBBBBBBBB0BB
+________________00BBBBBBBBBBBB000000
+_____________BBBBB0B00000000000BBBB_
+___________BB0B00BBBBBB0__BBBBBBBBBBB,
+__________BB_______BBBBB_BB0B00BB____BB,
+__________0B________BBBB_BBB__________BB,
+__________0BBBBBBBBBBBB__BBBBB_________B,
+____________________________BBBB0BBBBBBB
+
+```
+                                                  
