@@ -62,10 +62,10 @@ Halo, aku Ojam.
 ![Audation](https://img.shields.io/badge/prod-Audation-black)
 
 ```
-╔════╗ 
-║████║ 
-║(♫) ║ ♫ xiaojam - Am I dumb? ♫ 
-╚════╝
+╔═══╗ 
+║███║ 
+║(♫)║ ♫ xiaojam - Am I dumb? ♫ 
+╚═══╝
 ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
 Min- - - - - - - - - - - -●Max
 
