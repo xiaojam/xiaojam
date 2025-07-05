@@ -13,7 +13,7 @@ Halo, aku Ojam.
 ### Current State
 So, what am I up to these days? Mostly just grinding away on my Master of Engineering thesis. I'm tackling a project focused on optimizing business processes by building out system automation powered by a BPMN Engine. Think less manual work, more smooth operations!
 
-Before this, I was slinging code at [BFI Finance](https://github.com/@bfi-finance). If you ever saw anything from [@ojam-bfi](https://github.com/@ojam-bfi), that was me! Though, let's be real, all of work is locked away in private repos, so probably not, haha.
+Before this, I was slinging code at [BFI Finance](https://github.com/bfi-finance). If you ever saw anything from [ojam-bfi](https://github.com/ojam-bfi), that was me! Though, let's be real, all of work is locked away in private repos, so probably not, haha.
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam)&nbsp;
