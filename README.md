@@ -10,6 +10,11 @@ Click... <br/>
 Penikmat susu beruang yang 'kan membuatmu nyaman. <br/>
 Halo, aku Ojam.
 
+### Current State
+So, what am I up to these days? Mostly just grinding away on my Master of Engineering thesis. I'm tackling a project focused on optimizing business processes by building out system automation powered by a BPMN Engine. Think less manual work, more smooth operations!
+
+Before this, I was slinging code at [BFI Finance](https://github.com/@bfi-finance). If you ever saw anything from [@ojam-bfi](https://github.com/@ojam-bfi), that was me! Though, let's be real, all of work is locked away in private repos, so probably not, haha.
+
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xiaojjam)&nbsp;
@@ -63,61 +68,4 @@ Halo, aku Ojam.
 ![Audation](https://img.shields.io/badge/prod-Audation-black)
 
 <hr/>
-
-```
-╔═══╗ 
-║███║ 
-║(♫)║ ♫ xiaojam - Am I dumb? ♫ 
-╚═══╝
-▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
-Min- - - - - - - - - - - -●Max
-
-
-________________________________BBBBBBBBBBBB
-_______________________________BBBBBBBBBBBBB0
-__BBBBBBBBB___________________BBBBBBBBBBBBBBB,
-_BBBBBBBBBBBB________________BBBBBBBBBBBBBBBB0,
-_BBBBBBBBBBBBB_______________BBBBBBBBBBBBBBBB0
-BBBBBBBBBBBBBBBB____________BBBBBBBBBBBBBBBBB,
-_BBBBBBBBBBBBBBBB___________BBBBBBBBBBBBBBBB0,
-__BBBBBBBBBBBBBBBB_________BBBBBBBBBBBBBBBBB,
-__BBBBBBBBBBBBBBBB_________BBBBBBBBBBBBBBBB,
-___BBBBBBBBBBBBBBBB________BBBBBBBBBBBBBBB,
-____BBBBBBBBBBBBBBB________BBBBBBBBBBBBBB0,
-_____BBBBBBBBBBBBBB_______BBBBBBBBBBBBBB0,
-______BBBBBBBBBBBBB_______BBBBBBBBBBBBBB,
-_______BBBBBBBBBBBBB______BBBBBBBBBBBBB,
-________BBBBBBBBBBBB______BBBBBBBBBB00,
-__________BBBBBBBBBB______BBBBBBBBBBB,
-___________BBBBBBBBBB_____BBBBBBBBBB0
-____________BBBBBBBBB_____BBBBBBBBBB
-______________BBBBBBB_____BBBBBBBB0
-______________BBBBBBB_____BBBBBBBB
-_______________BBBBBB_____BBBBBBB
-________________BBBBBBBBBBBBBBBBB_
-______________BBBBBBBBBBBBBBBBBBBBBB
-____________BBBBBBBBBBBBBBBBBBBBBBBBBB_
-__________BBBBBBBBBBBBB_________BBBBBBBB
-_________BBBBB__BBBBB____________BBBBBBBBB
-________BBB________B______________BBBBBBBBB
-_______BBB_________B______________BBBBBBBBBB,
-_______BBB______BB_B_BBB__________BBBBBBBBBB,
-_______BBB_____BBB_B_BBBB________BBBBBBBBBBB,
-_______BBB________000___________BBBBBBBBBBBB,
-_______BBBB______00000_________BBBBBBBBBBBBB,
-____00000BBBBBBBBB000BBBBBBBBBBBBBBBBBBBBBB00000000,
-___0BBBB00BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB00BBBBBB0B0,
-__0BBBBBB00BBBB00______B000000BBBBBBBBBB000B00BBBB0B0,
-_0BBBBBBBB_BBBB00___B__BBBB000BBBBBBBBB00B0___B00000,
-_00BBBBB____BBBB00BBBBBB000BBBBBBBBBBBB0,
-__0BB_________B0B00000000BBBBBBBBBB0BB
-________________00BBBBBBBBBBBB000000
-_____________BBBBB0B00000000000BBBB_
-___________BB0B00BBBBBB0__BBBBBBBBBBB,
-__________BB_______BBBBB_BB0B00BB____BB,
-__________0B________BBBB_BBB__________BB,
-__________0BBBBBBBBBBBB__BBBBB_________B,
-____________________________BBBB0BBBBBBB
-
-```
                                                   
