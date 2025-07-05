@@ -10,8 +10,6 @@ Click... <br/>
 Penikmat susu beruang yang 'kan membuatmu nyaman. <br/>
 Halo, aku Ojam.
 
-<hr/>
-
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xiaojjam)&nbsp;
