@@ -5,11 +5,12 @@ A wordsmith by magic, building worlds with language and logic. <br/>
 Hi, I'm Ojam! <br/>
 Click... <br/>
 
-<hr/>
+---
 
 Penikmat susu beruang yang 'kan membuatmu nyaman. <br/>
 Halo, aku Ojam.
 
+<hr/>
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam)&nbsp;
@@ -17,6 +18,8 @@ Halo, aku Ojam.
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xiaojjam)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machruzh@gmail.com)&nbsp;
 [![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://ojam.top)
+
+<hr/>
 
 ## Tech Stack
 
@@ -60,6 +63,8 @@ Halo, aku Ojam.
 ![Photoshop](https://img.shields.io/badge/prod-Photoshop-black)
 ![Sony Vegas](https://img.shields.io/badge/prod-Sony_Vegas-black)
 ![Audation](https://img.shields.io/badge/prod-Audation-black)
+
+<hr/>
 
 ```
 ╔═══╗ 
