@@ -5,7 +5,7 @@ A wordsmith by magic, building worlds with language and logic. <br/>
 Hi, I'm Ojam! <br/>
 Click... <br/>
 
----
+-
 
 Penikmat susu beruang yang 'kan membuatmu nyaman. <br/>
 Halo, aku Ojam.
