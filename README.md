@@ -40,7 +40,6 @@ Before this, I was slinging code at [BFI Finance](https://github.com/bfi-finance
 ![Camunda](https://img.shields.io/badge/tool-Camunda-maroon)
 ![Google Workspace](https://img.shields.io/badge/prod-Google_Workspace-black)
 ![Microsoft Office](https://img.shields.io/badge/prod-Microsoft_Office-black)
-![Jira](https://img.shields.io/badge/prod-Jira-black)
 
 ### Proficient & Evolving
 ![Go](https://img.shields.io/badge/lang-Go-blue)
@@ -62,6 +61,7 @@ Before this, I was slinging code at [BFI Finance](https://github.com/bfi-finance
 ![Datadog](https://img.shields.io/badge/tool-Datadog-maroon)
 ![Redis](https://img.shields.io/badge/tool-Redis-maroon)
 ![RabbitMQ](https://img.shields.io/badge/tool-RabbitMQ-maroon)
+![Jira](https://img.shields.io/badge/prod-Jira-black)
 ![Figma](https://img.shields.io/badge/prod-Figma-black)
 ![Photoshop](https://img.shields.io/badge/prod-Photoshop-black)
 ![Sony Vegas](https://img.shields.io/badge/prod-Sony_Vegas-black)
