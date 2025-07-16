@@ -3,7 +3,6 @@
 ### Jikoshoukai (自己紹介)
 A wordsmith by magic, building worlds with language and logic. <br/>
 Hi, I'm Ojam! <br/>
-Click... <br/>
 
 --
 
