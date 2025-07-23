@@ -15,7 +15,7 @@ So, what am I up to these days? Mostly just grinding away on my Master of Engine
 Before this, I was slinging code at [BFI Finance](https://github.com/bfi-finance). If you ever saw anything from [ojam-bfi](https://github.com/ojam-bfi), that was me! Though, let's be real, all of work is locked away in private repos, so probably not, haha.
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jampirojam)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xiaojam)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xiaojjam)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xiaojjam)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machruzh@gmail.com)&nbsp;
