@@ -4,23 +4,19 @@
 A wordsmith by magic, building worlds with language and logic. <br/>
 Hi, I'm Ojam! <br/>
 
---
-
-Penikmat susu beruang yang 'kan membuatmu nyaman. <br/>
-Halo, aku Ojam.
-
 ### Current State
-So, what am I up to these days? Mostly just grinding away on my Master of Engineering thesis. I'm tackling a thesis project focused on optimizing business processes by building out system automation powered by a BPMN Engine. Think less manual work, more smooth operations!
+I've completed my Master's thesis and projects on BPMN-based automation. I'm currently clearing final admin requirements for my defense and am actively looking for new job opportunities.
 
-Before this, I was slinging code at [BFI Finance](https://github.com/bfi-finance). If you ever saw anything from [ojam-bfi](https://github.com/ojam-bfi), that was me! Though, let's be real, all of work is locked away in private repos, so probably not, haha.
+Previously, I was an Engineer at [BFI Finance](https://github.com/bfi-finance) (_[ojam-bfi](https://github.com/ojam-bfi)_). My work is mostly in private repos, so you won't see much here. 
+
+Wanna know me more, just try me!
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xiaojam)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xiaojjam)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xiaojjam)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machruzh@gmail.com)&nbsp;
-[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://ojam.top)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/xiaojam)&nbsp;
+[![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/xiaojjam)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-magenta)](https://instagram.com/xiaojjam)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-maroon)](mailto:machruzh@gmail.com)&nbsp;
+[![Page](https://img.shields.io/badge/Page-Visit-sienna)](https://ojam.top)
 <hr/>
 
 ## Tech Stack
