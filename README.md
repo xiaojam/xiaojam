@@ -11,14 +11,6 @@ Previously, I was an Engineer at [BFI Finance](https://github.com/bfi-finance) (
 
 Wanna know me more, just try me!
 
-### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/xiaojam)&nbsp;
-[![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/xiaojjam)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-magenta)](https://instagram.com/xiaojjam)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-maroon)](mailto:machruzh@gmail.com)&nbsp;
-[![Page](https://img.shields.io/badge/Page-Visit-sienna)](https://ojam.top)
-<hr/>
-
 ## Tech Stack
 
 ### Daily Drive
