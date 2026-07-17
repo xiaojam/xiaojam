@@ -5,7 +5,7 @@ A wordsmith by magic, building worlds with language and logic. <br/>
 Hi, I'm Ojam! <br/>
 
 ### Current State
-I've completed my Master's thesis and projects on BPMN-based automation. I'm currently clearing final admin requirements for my defense and am actively looking for new job opportunities.
+I hold a Master's degree, having successfully completed and defended my thesis on BPMN-based automation. I am currently open to work and actively seeking new professional opportunities where I can leverage my expertise in software engineering and automation.
 
 Previously, I was an Engineer at [BFI Finance](https://github.com/bfi-finance) (_[ojam-bfi](https://github.com/ojam-bfi)_). My work is mostly in private repos, so you won't see much here. 
 
@@ -53,6 +53,3 @@ Wanna know me more, just try me!
 ![Photoshop](https://img.shields.io/badge/prod-Photoshop-black)
 ![Sony Vegas](https://img.shields.io/badge/prod-Sony_Vegas-black)
 ![Audation](https://img.shields.io/badge/prod-Audation-black)
-
-<hr/>
-                                                  
